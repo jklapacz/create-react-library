@@ -1,6 +1,6 @@
 {
   "name": "@pindrop/create-react-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI for easily bootstrapping modern react libraries",
   "repository": "github.atl.pdrop.net/jklapacz/create-react-library",
   "author": "Jakub Klapacz <jklapacz@pindrop.com>",
